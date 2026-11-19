@@ -69,3 +69,22 @@
   * Completed JavaScript Essentials, understanding how to use JavaScript for website interactivity and exploring associated vulnerabilities.
   * Completed SQL Fundamentals, learning how to perform basic queries to retrieve and manage data in a database.
   * Completed Burp Suite: The Basics, getting an introduction to using the platform for web application pentesting.
+    
+## 9. Offensive Security Tooling
+- **Status:** Completed (12 November 2026)
+- **Overview:** Exploration of core offensive security tooling, focusing on Hydra, Gobuster, and SQLMap for credential brute-forcing, directory enumeration, and database exploitation alongside shell fundamentals.
+- **Key Takeaways:**
+  - Completed Hydra, learning to use a fast network logon cracker to brute-force and recover website credentials.
+  - Completed Gobuster: The Basics, focusing on directory and resource enumeration during reconnaissance.
+  - Completed Shells Overview, covering the different types of shells used in post-exploitation and interactive access.
+  - Completed SQLMap: The Basics, learning to identify SQL injection vulnerabilities and automate database exploitation.
+
+## 10. Defensive Security
+- **Status:** Completed (19 November)
+- **Overview:** Foundational module building defensive security capabilities across Security Operations Centers (SOC), digital forensics, incident response, and log analysis.
+- **Key Takeaways:**
+  - Completed Defensive Security Intro, covering core blue-team disciplines including Threat Intelligence, SOC, DFIR, Malware Analysis, and SIEM.
+  - Completed SOC Fundamentals, learning about SOC team roles, workflows, and operational processes.
+  - Completed Digital Forensics Fundamentals, exploring forensic procedures and practicing with a hands-on example.
+  - Completed Incident Response Fundamentals, learning structured methodologies for responding to security incidents.
+  - Completed Logs Fundamentals, understanding log types and how to analyze them effectively during investigations.
