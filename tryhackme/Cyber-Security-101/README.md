@@ -137,4 +137,4 @@ Successfully completed all fourteen modules of the TryHackMe Cyber Security 101 
 - **Networking & Cryptography:** Applied packet capture and reconnaissance techniques (Wireshark, Tcpdump, Nmap) alongside symmetric/asymmetric encryption, hashing, and password-cracking workflows (John the Ripper).
 - **Offensive Security & Web Exploitation:** Practiced vulnerability assessment, exploitation, and post-exploitation using Metasploit, Hydra, Gobuster, SQLMap, and Burp Suite, reinforced by hands-on remediation of OWASP Top 10 (2025) risks.
 - **Defensive Security & Analysis Tooling:** Developed core blue-team skills across SOC operations, incident response, digital forensics, and log analysis, utilizing SIEM, Snort IDS, firewalls, CyberChef, CAPA, REMnux, and FlareVM.
-  - Completed Logs Fundamentals, understanding log types and how to analyze them effectively during investigations.
+
