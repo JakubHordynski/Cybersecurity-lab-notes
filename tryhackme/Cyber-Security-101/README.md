@@ -71,7 +71,7 @@
   * Completed Burp Suite: The Basics, getting an introduction to using the platform for web application pentesting.
     
 ## 9. Offensive Security Tooling
-- **Status:** Completed (12 November 2026)
+- **Status:** Completed (10 November 2026)
 - **Overview:** Exploration of core offensive security tooling, focusing on Hydra, Gobuster, and SQLMap for credential brute-forcing, directory enumeration, and database exploitation alongside shell fundamentals.
 - **Key Takeaways:**
   - Completed Hydra, learning to use a fast network logon cracker to brute-force and recover website credentials.
@@ -80,11 +80,61 @@
   - Completed SQLMap: The Basics, learning to identify SQL injection vulnerabilities and automate database exploitation.
 
 ## 10. Defensive Security
-- **Status:** Completed (19 November)
+- **Status:** Completed (17 November)
 - **Overview:** Foundational module building defensive security capabilities across Security Operations Centers (SOC), digital forensics, incident response, and log analysis.
 - **Key Takeaways:**
   - Completed Defensive Security Intro, covering core blue-team disciplines including Threat Intelligence, SOC, DFIR, Malware Analysis, and SIEM.
   - Completed SOC Fundamentals, learning about SOC team roles, workflows, and operational processes.
   - Completed Digital Forensics Fundamentals, exploring forensic procedures and practicing with a hands-on example.
   - Completed Incident Response Fundamentals, learning structured methodologies for responding to security incidents.
+
+## 11. Security Solutions
+- **Status:** Completed (19 November)
+- **Overview:** Hands-on exploration of fundamental defensive security solutions, covering network and host-based firewalls, intrusion detection systems, vulnerability scanners, and SIEM platforms.
+- **Key Takeaways:**
+  - Completed Introduction to SIEM, learning the fundamentals of Security Information and Event Management along with its core features and functionality.
+  - Completed Firewall Fundamentals, gaining hands-on experience configuring built-in Windows and Linux firewalls.
+  - Completed IDS Fundamentals, learning how Intrusion Detection Systems operate and practicing rule-based detection with Snort.
+  - Completed Vulnerability Scanner Overview, exploring how vulnerability scanners identify and report system weaknesses in practical scenarios.
+  - Completed Topic Transition Recap, reviewing concepts and questions from recently completed rooms.
+
+## 12. Defensive Security Tooling
+- **Status:** Completed (20 November)
+- **Overview:** Practical introduction to specialized defensive security tools and malware analysis distributions, including CyberChef, CAPA, REMnux, and FlareVM.
+- **Key Takeaways:**
+  - Completed CyberChef: The Basics, learning to use the web-based data transformation tool for decoding, encoding, and analysis tasks.
+  - Completed CAPA: The Basics, practicing how to automatically identify malicious capabilities within executable files.
+  - Completed REMnux: Getting Started, exploring the Linux-based toolkit designed for reverse-engineering and analyzing malicious software.
+  - Completed FlareVM: Arsenal of Tools, getting familiar with the Windows-based investigative and malware analysis environment.
+  - Completed Topic Transition Recap, reviewing concepts and questions from recently completed rooms.
+
+## 13. Build Your Cyber Security Career
+- **Status:** Completed (21 November)
+- **Overview:** Overview of foundational security governance principles, career trajectories across the cybersecurity industry, and the organizational impact of continuous security training.
+- **Key Takeaways:**
+  - Completed Security Principles, reviewing the CIA triad alongside common security models and architectural frameworks.
+  - Completed Careers in Cyber, exploring different technical and operational roles available within the cybersecurity field.
+  - Completed Training Impact on Teams, examining how structured security training strengthens team readiness and organizational resilience.
+
+## 14. OWASP Top 10 (2025)
+- **Status:** Completed (21 November)
+- **Overview:** Practical examination of the most critical web application security risks from the OWASP Top 10 (2025) list, focusing on exploitation mechanics and remediation strategies through interactive labs.
+- **Key Takeaways:**
+  - Completed OWASP Top 10 2025: IAAA Failures, analyzing A01, A07, and A09 in the context of Identification, Authentication, Authorization, and Accountability breakdowns.
+  - Completed OWASP Top 10 2025: Application Design Flaws, exploring A02, A03, A06, and A10 and how architectural and design weaknesses introduce exploitable risks.
+  - Completed OWASP Top 10 2025: Insecure Data Handling, investigating A04, A05, and A08 to understand vulnerabilities stemming from improper data protection and processing.
+
+## Learning Path Completion: Cyber Security 101
+- **Status:** 100% Completed (21 November 2026)
+- **Platform:** TryHackMe
+- **Credential:** Cyber Security 101 Learning Path Completion
+
+### Overview & Milestones
+Successfully completed all fourteen modules of the TryHackMe Cyber Security 101 track. This milestone bridges foundational IT concepts with hands-on offensive and defensive security operations, establishing practical fluency across operating systems, networking, cryptography, web exploitation, and blue-team investigation workflows.
+
+### Consolidated Competencies
+- **Systems, Active Directory & CLI:** Built cross-platform operational proficiency across Linux, Windows, and Active Directory environments using Bash, Windows Command Line, and PowerShell for administration and scripting.
+- **Networking & Cryptography:** Applied packet capture and reconnaissance techniques (Wireshark, Tcpdump, Nmap) alongside symmetric/asymmetric encryption, hashing, and password-cracking workflows (John the Ripper).
+- **Offensive Security & Web Exploitation:** Practiced vulnerability assessment, exploitation, and post-exploitation using Metasploit, Hydra, Gobuster, SQLMap, and Burp Suite, reinforced by hands-on remediation of OWASP Top 10 (2025) risks.
+- **Defensive Security & Analysis Tooling:** Developed core blue-team skills across SOC operations, incident response, digital forensics, and log analysis, utilizing SIEM, Snort IDS, firewalls, CyberChef, CAPA, REMnux, and FlareVM.
   - Completed Logs Fundamentals, understanding log types and how to analyze them effectively during investigations.
